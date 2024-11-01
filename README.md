@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a webdev agency**
 
-- 👨‍💻 All of my projects are available at [www.ichabalint.com](www.ichabalint.com)
+- 👨‍💻 All of my projects are available at [www.ichabalint.com](https://www.ichabalint.com)
 
 - 📫 How to reach me **balinticha3@gmail.com**
 
